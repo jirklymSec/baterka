@@ -1,0 +1,15 @@
+#tlacitko
+{
+    background-color: rgba(127,140,141,128);
+    opacity: 0.5;
+    border-width: 0px;
+    border-radius: 25px;
+    position: fixed;
+    width: 75%;
+    height: 75%;
+    top: 50%;
+    left: 50%;
+    font-size: 2em;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
